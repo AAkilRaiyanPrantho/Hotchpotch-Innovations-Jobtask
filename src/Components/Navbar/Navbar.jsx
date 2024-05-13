@@ -3,7 +3,7 @@ import logo from '../../../images/White Logo_Hotchpotch-01 1.png'
 const Navbar = () => {
   return (
     <div>
-      <div className="navbar bg-base-100 text-white">
+      <div className="navbar bg-[#12141D] text-white">
   <div className="navbar-start lg:hidden">
     <div className="dropdown">
       <div tabIndex={0} role="button" className="btn btn-ghost lg:hidden">
