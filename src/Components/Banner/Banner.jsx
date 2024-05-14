@@ -4,7 +4,7 @@ import play from "../../../images/Icon.png";
 const Banner = () => {
   return (
     <div
-      className="flex flex-col gap-4 items-center justify-center text-center py-14"
+      className="flex flex-col gap-4 items-center justify-center text-center py-14 border-b border-gray-800"
       style={{ backgroundImage: `url(${banner})` }}
     >
       <div>
