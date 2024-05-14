@@ -2,7 +2,7 @@ import AI from "../../../images/image.png";
 
 const AIWritingTools = () => {
   return (
-    <div className="max-w-7xl mx-auto py-20">
+    <div className="max-w-7xl mx-auto pt-20">
       <div className="hero bg-[#12141D] px-4">
         <div className="hero-content flex-col lg:flex-row">
           <img
