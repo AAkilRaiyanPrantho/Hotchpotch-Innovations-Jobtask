@@ -2,7 +2,7 @@ import blogs from "../../../images/Image 1.png";
 
 const Mixland = () => {
   return (
-    <div className="max-w-7xl mx-auto py-20">
+    <div className="max-w-7xl mx-auto pt-10 lg:py-20">
       <h1 className="text-3xl font-bold text-center mb-10 text-white">
         Mixland helps you <br /> build beautiful website
       </h1>
@@ -29,7 +29,7 @@ const Mixland = () => {
             <a className="btn justify-start w-[302px] btn-outline text-white">PAS Copywriting Formula</a>
           </div>
         </div>
-        <div>
+        <div className="max-lg:p-4">
           <img src={blogs}></img>
         </div>
       </div>

@@ -9,7 +9,7 @@ import review8 from "../../../images/8 (2).png";
 
 const CustomerReviews = () => {
   return (
-    <div className="max-w-7xl mx-auto py-20">
+    <div className="max-w-7xl mx-auto pt-10 lg:py-20">
       <h1 className="text-4xl font-semibold text-center mb-5 text-white">
         What our customers say
       </h1>
