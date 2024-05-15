@@ -2,8 +2,8 @@ import blogs from "../../../images/Image 1.png";
 
 const Mixland = () => {
   return (
-    <div className="max-w-7xl mx-auto pt-20">
-      <h1 className="text-3xl font-bold text-center mb-10">
+    <div className="max-w-7xl mx-auto py-20">
+      <h1 className="text-3xl font-bold text-center mb-10 text-white">
         Mixland helps you <br /> build beautiful website
       </h1>
       <div className="flex flex-col items-center gap-10 justify-center lg:flex-row">
