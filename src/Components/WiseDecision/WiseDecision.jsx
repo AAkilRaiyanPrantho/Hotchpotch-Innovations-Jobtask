@@ -9,7 +9,7 @@ const WiseDecision = () => {
       </p>
       <div className="grid grid-cols-1 max-lg:p-4 lg:grid-cols-3 gap-4 items-center justify-center">
       {/* Artcard 1 */}
-        <div className="artboard phone-1 bg-[#282A37] rounded-2xl flex flex-col justify-around items-center">
+        <div className="artboard phone-1 bg-[#282A37] rounded-2xl flex flex-col justify-around items-center mx-auto">
           <div>
             <p className="text-md font-normal text-white mb-2">Starter Plan</p>
             <h1 className="text-md font-normal text-white mb-2">
@@ -42,7 +42,7 @@ const WiseDecision = () => {
           </div>
         </div>
         {/* Artcard 2 */}
-        <div className="artboard phone-1 bg-[#282A37] rounded-2xl flex flex-col justify-around items-center">
+        <div className="artboard phone-1 bg-[#282A37] rounded-2xl flex flex-col justify-around items-center mx-auto">
           <div>
             <p className="text-md font-normal text-white mb-2">Basic Plan</p>
             <h1 className="text-md font-normal text-white mb-2">
@@ -81,7 +81,7 @@ const WiseDecision = () => {
           </div>
         </div>
         {/* Artcard 3 */}
-        <div className="artboard phone-1 bg-[#282A37] rounded-2xl flex flex-col justify-around items-center">
+        <div className="artboard phone-1 bg-[#282A37] rounded-2xl flex flex-col justify-around items-center mx-auto">
           <div>
             <p className="text-md font-normal text-white">Premium Plan</p>
             <h1 className="text-md font-normal text-white">
