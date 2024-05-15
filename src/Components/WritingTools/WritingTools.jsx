@@ -9,7 +9,7 @@ import png8 from '../../../images/8.png'
 
 const WritingTools = () => {
     return (
-        <div className="max-w-7xl mx-auto pt-20">
+        <div className="max-w-7xl mx-auto pt-20 max-lg:p-4">
             <h1 className="text-3xl font-bold text-center mb-4">54 exciting writing tools</h1>
             <p className="text-md font-normal text-center mb-4">AI engines take information from various sources and read them like a human would do.</p>
             <div className='grid grid-cols-2 lg:grid-cols-4 items-center justify-center mx-auto gap-4'>
